@@ -1,62 +1,129 @@
-01 Happiness 
-02 Laughter 
-03 Joy 
-04 Love 
-05 Glee 
-06 Anger 
-07 Aggravation 
-08 Outrage 
-09 Worry 
-0A Sighing 
-0B Thought 
-0C Sadness 
-0D Distress 
-0E Sorrow 
-0F Unused (Alarmed) 
-10 Surprise 
-11 Disbelief 
-12 Shocked 
-13 Cold Chill 
-14 Fearful 
-15 Agreement 
-16 Inspiration 
-17 Curiosity 
-18 Heartbreak 
-19 Sleepy 
-1A Bashfulness 
-1B Resignation 
-1C Mischief 
-1D Delight 
-1E Sneezing 
-1F Unused (Yelling with stars) 
-20 Greetings 
-21 Pride 
-22 Unused (Hot outside with sleeves on) 
-23 Unused (Glare) 
-24 Sheepishness 
-25 Unused (Eyes blink) 
-26 Sunniness 
-27 Shyness 
-28 Disagreement 
-29 Mistaken 
-2A Flourish 
-2B Daydreaming 
-2C Showmanship 
-2D Unused (Sleep bubble) 
-2E Shrunk Funk Shuffle
-2F Lie on the ground 
-30 (Resetti) Aggravate(?) 
-31 (Resetti) Worry 
-32 (Resetti) Cold Chill 
-33 (Resetti) Surprise 
-34 (Resetti) Annoyed(?) 
-35 (Resetti) Sadness(?) [Looks like laughing for player] 
-36 (Resetti) Outrage(?) 
-37 (Resetti) Thinking(?) ["Devilish Smile"] 38 - Police Solute (Indoors Only) 39 - ? 
-3A ? 
-3B (Nat?) Exclamation mark after examining a bug 
-3C Distress (+Beeping Sounds Indoors) [Sound Only] 
-3D (Katrina) Arms out when reading fortune [Katrina's Shop Only] 
-3E (Katrina) Animation after getting fortune [Sound Indoor Only] 
-3F (Chip) Examining Fish 
-40 ? ["Shaking A Box"]
+Update 2.0.6
+Title ID: 01006F8002326000
+Build ID: 15765149DF53BA41
+
+This ID list was made by OblivionReign on gbatemp 
+
+Updated Names to include internal names even for unused reaction animations
+
+Left = Visible Names || Right = Internal Names
+(Unused) now just use Internal Names
+
+01: Happiness - Smiling
+02: Laughter - Laughing
+03: Joy - HappyFlower
+04: Love - Love
+05: Glee - HappyDance
+06: Angry (Unused)
+07: Aggravation - Outraged
+08: Fuming (Unused)
+09: Worry - Worried
+0A: Sighing - Sighing
+0B: Thought - Thinking
+0C: Sadness - SadSpiral
+0D: Distress - Frantic
+0E: Sorrow - Crying
+0F: Amazed - Shocked
+10: Surprise - Aha
+11: TakenAback (Unused)
+12: Shocked - Surprised
+13: Cold Chill - ColdChill
+14: Fearful - Shaking
+15: Agreement - Nodding
+16: Inspiration - IdeaBulb
+17: Curiosity - QuestionMark
+18: Heartbreak - BrokenHeart
+19: Sleepy - Sleepy
+1A: Bashfulness - Blushing
+1B: Resignation - OhGeez
+1C: Mischief - Scheming
+1D: Delight - Clapping
+1E: Sneezing - Sneezing
+1F: Encouraging - Cheering
+20: Greetings - Greeting
+21: Pride - SmugFace
+22: Hot (Unused)
+23: Smirking - Grin
+24: Sheepishness - WrySmile
+25: FaintSmile (Unused)
+26: BigSmile (Unused)
+27: Shyness - Hesitate
+28: Disagreement - Negative
+29: Mistaken - Oops
+2A: Flourish - Dance
+2B: Daydreaming - AbsentMindedness
+2C: Showmanship - Shaki
+2D: Dozing - Sleep
+2E: Special (Unused)
+2F: Intense - Silent
+30: Pleased - Hello
+31: Confused (Unused)
+32: ShyBoy (Unused)
+33: Restless (Unused)
+34: Serious (Unused)
+35: Eh (Unused)
+36: Apologetic - Apologize
+37: Confident - Assent
+38: Explain (Unused)
+39: NpcShuffle (Unused)
+3A: Bewilderment - Pardon
+3B: NpcHoldout (Unused)
+3C: Scare (Halloween) - AddPrank
+3D: Haunt (Halloween) - AddScaring
+3E: Sit Down - AddSitDown
+3F: Yoga - AddYoga
+40: Here You Go - AddHereYouGo
+41: Work Out - AddGymnastics
+42: Take a Picture - AddTakePictures
+43: Sniff Sniff - AddSmell
+44: Ta-da - AddPraise
+45: Wave Goodbye - AddWaveHands
+46: Excited - AddExcited
+47: Confetti (Festivale DLC) - AddConfetti
+48: Viva (Festivale DLC) - AddViva
+49: Let's Go (Festivale DLC) - AddEntice
+4A: Feelin' It (Festivale DLC) - AddDance
+4B: RequestConsent (unused) 2.0.0 
+4C: Say Cheese 2.0.0 - RequestWillingness
+4D: Eager 2.0.0 - RequestOkay
+4E: Posture Warm-Up 2.0.0 - AddRadioGymnastics01
+4F: Arm Circles 2.0.0 - AddRadioGymnastics02
+50: Side Bends 2.0.0 - AddRadioGymnastics03
+51: Body Twists 2.0.0 - AddRadioGymnastics04
+52: Wide Arm Stretch 2.0.0 - AddRadioGymnastics05
+53: Upper-Body Circles 2.0.0 - AddRadioGymnastics06
+54: Jump 2.0.0 - AddRadioGymnastics07
+55: Hula 2.0.0 - AddHula
+56: Double Wave 2.0.0 - AddGreetingBothHands
+57: Listening Ears 2.0.0 - AddListen
+58: Flex 2.0.0 - AddMusclePose
+59: Jammin' 2.0.0 - AddRhythm
+5A: Stretch 2.0.0 - AddStretch
+5B: Behold 2.0.0 - AddRequestLook
+5C: Work It 2.0.0 - AddPoseCool
+5D: Act Natural 2.0.0 - AddPoseNaturel
+5E: Grooving Hop 2.0.0 - AddKKFesUpper
+5F: Groove Right 2.0.0 - AddKKFesRight
+60: Groove Left 2.0.0 - AddKKFesLeft
+61: Soak It In 2.0.0 - AddKKFesLower
+62: Shimmy 2.0.0 - AddKKFesPosing00
+63: Airplane 2.0.0 - AddKKFesPosing01
+64: Twisty Dance 2.0.0 - AddKKFesPosing02
+65: Arm-Swing Dance 2.0.0 - AddKKFesPosing03
+66: Island Stomp 2.0.0 - AddKKFesPosing04
+67: Side-To-Side 2.0.0 - AddKKFesPosing05
+68: Turnip Patch 2.0.0 - AddKKFesPosing06
+69: ExistHappyDance (Unused) 2.0.0
+6A: ExistLove (Unused) 2.0.0
+6B: GulSleeping (Unused)
+6C: WarningBee (Unused)
+6D: NpcThinking (Unused)
+6E: NpcAttention (Unused)
+6F: NpcKKSitting (Unused)
+70: NpcKKNod (Unused)
+71: NpcKKThink (Unused)
+72: HHPNpcReaction0 (Unused)
+73: HHPNpcReaction1 (Unused)
+74: HHPNpcReaction2 (Unused)
+75: HHPNpcReaction3 (Unused)
+76: HHPNpcReaction4 (Unused)

@@ -3,6 +3,12 @@ This is a backup of mpql’s ID list : https://mpql.net/tools/acnh/codes/item-li
 Empty, FFFE
 Hole, EA79
 —————
+Rock A, EB12
+Rock B, EB13
+Rock C, EB16
+Rock D, EB15
+Rock E, EB14
+—————
 STR_ItemName_00_Ftr
 baby bed, 004F [Ftr_00079]
 clackercart, 0050 [Ftr_00080] DIY: 00A4
@@ -2209,6 +2215,7 @@ Nook Inc. doorplate, 37AA [DoorDeco_14250]
 ship-wheel door decoration, 3816 [DoorDeco_14358]
 nuptial doorplate, 388B [DoorDeco_14475]
 horseshoe door decoration, 38EA [DoorDeco_14570]
+Harvey's Island Fence, ECC4, [FenceCommune]
  
 STR_ItemName_62_HousePost
 ordinary mailbox, 0A0B [HousePost_02571]

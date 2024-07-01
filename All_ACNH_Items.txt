@@ -1,6 +1,7 @@
 This is a backup of mpql’s ID list : https://mpql.net/tools/acnh/codes/item-list/
 —————
 Empty, FFFE
+Hole, EA79
 —————
 STR_ItemName_00_Ftr
 baby bed, 004F [Ftr_00079]

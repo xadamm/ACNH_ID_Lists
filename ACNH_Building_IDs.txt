@@ -1,0 +1,31 @@
+Data extracted from ACNHPokerCore, data is in hexadecimal numbers.
+0x0 : Empty
+0x1 : Player 1 House
+0x2 : Player 2 House
+0x3 : Player 3 House
+0x4 : Player 4 House
+0x5 : Player 5 House
+0x6 : Player 6 House
+0x7 : Player 7 House
+0x8 : Player 8 House
+0x9 : Villager House 1
+0xA : Villager House 2
+0xB : Villager House 3
+0xC : Villager House 4
+0xD : Villager House 5
+0xE : Villager House 6
+0xF : Villager House 7
+0x10 : Villager House 8
+0x11 : Villager House 9
+0x12 : Villager House 10
+0x13 : Nook's Cranny
+0x14 : Resident Services (Building)
+0x15 : Museum
+0x16 : Airport
+0x17 : Resident Services (Tent)
+0x18 : Able Sisters
+0x19 : Campsite
+0x1A : Bridge
+0x1B : Incline
+0x1C : Redd's Treasure Trawler
+0x1D : Studio

@@ -2,6 +2,7 @@
 
 ## Item
 - ### [Item ID's](https://raw.githubusercontent.com/adamsyee/ACNH_ID_Lists/master/All_ACNH_Items.txt)
+- ### [DIY ID's](https://raw.githubusercontent.com/adamsyee/ACNH_ID_Lists/master/All_ACNH_DIYs.txt)
 
 ## Appearance
 - ### [Mouthstyle ID's](https://raw.githubusercontent.com/adamsyee/ACNH_ID_Lists/master/ACNHMouthIDs.webp)

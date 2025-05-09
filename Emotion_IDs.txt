@@ -1,14 +1,3 @@
-Update 2.0.6
-Title ID: 01006F8002326000
-Build ID: 15765149DF53BA41
-
-This ID list was made by OblivionReign on gbatemp 
-
-Updated Names to include internal names even for unused reaction animations
-
-Left = Visible Names || Right = Internal Names
-(Unused) now just use Internal Names
-
 01: Happiness - Smiling
 02: Laughter - Laughing
 03: Joy - HappyFlower
